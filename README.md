@@ -5,7 +5,7 @@ Estou migrando minha formação e busco iniciar minha carreira em Tecnologia da 
 
 ### :pencil: ESTUDOS
 
-- PUC MINAS • Pós-graduação em Arquitetura de Software Distribuído.
+- PUC MINAS • Pós-graduação em Arquitetura de Software Distribuído
 - SANTANDER BOOTCAMP 2023 • Desenvolvimento FullStack
 - UDEMY • C# / .NET Completo
 
