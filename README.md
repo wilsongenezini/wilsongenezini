@@ -1,24 +1,21 @@
-## Olá, me chamo Wilson Genezini! 👋
-Estou migrando minha formação e busco iniciar minha carreira em Tecnologia da Informação. Seguem algumas informações:
+## 👋 Olá, me chamo Wilson Genezini!
+Estou migrando minha formação e busco iniciar minha carreira em Tecnologia da Informação. 
 
-<br>
 
-### 📚 ESTUDOS
+## 📚 Estudos
 
 - PUC MINAS • Pós-graduação em Arquitetura de Software Distribuído
-- SANTANDER BOOTCAMP 2023 • Desenvolvimento FullStack
+- SANTANDER BOOTCAMP 2023 • Desenvolvimento Full Stack
 - UDEMY • C# / .NET Completo
 - IFMG • Programação .NET Avançado
 
-<br>
 
-### :computer: FERRAMENTAS E TECNOLOGIAS
+## 💻 Ferramentas e Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,cs,py,java,dotnet,js,html,css,angular)](https://skillicons.dev)
 
-<br>
 
-### :mailbox: MEU CONTATO
+## 📬 Contato
 
 <div>
 <a href = "mailto:wilsongenezini@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
