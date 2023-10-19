@@ -1,5 +1,5 @@
 ## 👋 Olá, me chamo Wilson Genezini!
-Estou migrando minha formação e busco iniciar minha carreira em Tecnologia da Informação. 
+Desenvolvedor Back-End • Node.js • TypeScript 
 
 ## 📚 Estudos
 
@@ -15,7 +15,7 @@ Estou migrando minha formação e busco iniciar minha carreira em Tecnologia da 
 <a href="https://www.linkedin.com/in/wilsongenezini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## 👨🏽‍💻 Projetos realizados
+## 👨🏽‍💻 Projetos de testes técnicos
 
 | Repositório | Tecnologias utilizadas |
 | :---: | :---: |
